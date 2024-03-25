@@ -6,6 +6,7 @@
 - 😄 Pronouns: He/Him!
 - ⚡ Greatest Accomplishment: I made the current GAMEZIFY V2 in 1 hour after teaching myself html in 2 days!
 - GAMEZIFY Link: https://toomuchonmymind.github.io/GAMEZIFY/index.html
+- My Portfolio Link: https://harshad-portfolio-six.vercel.app/
 
 <!---
 TooMuchOnMyMind/TooMuchOnMyMind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
